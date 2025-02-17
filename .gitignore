@@ -3,6 +3,13 @@
 aac/
 *.aac
 *.wav
+*.jpg
+*.jpeg
+*.png
+*.mp3
+.env
+*.ini
+*.ttf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
